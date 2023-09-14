@@ -39,10 +39,26 @@ p {
 
 } 
 
+/* button {
+    background: hotpink;
+    color: #000000;
+    border: 3px solid hotpink;
+    padding: 10px;
+    font-size: 24px;
+} */
 button {
     background: hotpink;
     color: #000000;
     border: 3px solid hotpink;
     padding: 10px;
     font-size: 24px;
-}
+  }
+  
+  button:hover {
+    color: #ffdd33;
+    background: #191f19;
+    cursor: pointer;
+  }
+  .middlepls {
+    text-align: center;
+  }
