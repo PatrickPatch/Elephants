@@ -10,6 +10,18 @@ header {
 body {
     background-color: #AFBDB8;
 }
+
+footer {
+    background-color: hotpink;
+    padding:100;
+}
+h3 {
+    font-family: Impact;
+    background-color: #d2f03e;
+    padding:100;
+    text-align: center;
+    text-emphasis-color: #d2f03e;
+}
 ul {
     text-align:center;
     background-color: #4be3b0;
@@ -26,3 +38,11 @@ p {
   margin-right: auto;
 
 } 
+
+button {
+    background: hotpink;
+    color: #000000;
+    border: 3px solid hotpink;
+    padding: 10px;
+    font-size: 24px;
+}
