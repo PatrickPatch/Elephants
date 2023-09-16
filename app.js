@@ -1,14 +1,6 @@
 console.log ("hello world!");
 // Hype Measurement
 
-// function greet() { 
-//     let visitor = prompt("What is your name friend?");
-// }
-
-
-
-
-
 function Excited() {
     let hype = prompt("On a scale of ten, how excited are you to see Gertrude the elephant?"); 
     if (hype < 5) {
@@ -48,36 +40,6 @@ while(i<10) {
   i++
 }
 
-// do {
-//     text += "The number is " + i;
-//     i++;
-//     document.write("It's stomping this way!")
-//   }
-//   while (i < 10);
-
-    // while (i < 10)
-    //     console.log("Another one stomping this way!!");
-
-
-
-//   while (J < 5) {
-//     console.log(i);
-//     i++;
-//     while (i < 10);
-//   } 
-
-// console.log
-
-
-// function Escape() 
-// {
-//     int J = 0;
-// do {
-//   System.out.println(i);
-//   J++;
-// }
-// while (J < 5);
-// }
 
 
 
