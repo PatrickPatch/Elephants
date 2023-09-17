@@ -9,6 +9,7 @@ header {
 }
 body {
     background-color: #AFBDB8;
+    
 }
 
 footer {
@@ -22,14 +23,12 @@ h3 {
     text-align: center;
     text-emphasis-color: #d2f03e;
 }
-ul {
-    text-align:center;
+ul, p {
+    text-align:left;
     background-color: #4be3b0;
-}
-
-p {
-    text-align:center;
-    background-color: #4be3b0;
+    opacity: 0.8;
+    p.double {border-style: double;}
+    border-width: medium;
 }
 
 .img-responsive {
@@ -39,15 +38,8 @@ p {
 
 } 
 
-/* button {
-    background: hotpink;
-    color: #000000;
-    border: 3px solid hotpink;
-    padding: 10px;
-    font-size: 24px;
-} */
 button {
-    background: hotpink;
+    background: #d2f03e;
     color: #000000;
     border: 3px solid hotpink;
     padding: 10px;
